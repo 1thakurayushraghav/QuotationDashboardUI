@@ -22,7 +22,7 @@ export default function HomePage() {
     <div className="min-h-screen flex items-center justify-center bg-[#f8f7f4]">
       <div className="text-center">
         <Loader2 className="w-10 h-10 animate-spin text-gray-900 mx-auto mb-4" />
-        <p className="text-base font-medium text-gray-600">Loading your workspace...</p>
+        <p className="text-base font-medium text-gray-600">Loading your's workspace...</p>
       </div>
     </div>
   );
